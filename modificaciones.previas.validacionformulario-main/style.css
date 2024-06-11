@@ -7,6 +7,10 @@
   font-style: normal;
 }
 
+.data{
+  display: none;
+}
+
 body {
   overflow: hidden; /* Evita que el video se desplace */
   
